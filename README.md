@@ -6,7 +6,7 @@ Email Me 👉 ✉️ ** gopalkumar977156@gmail.com ** For Collaboration/Project 
 - 🔭 **I’m currently working on:** Building my programming and development skills
 - 🌱 **I’m currently learning:** C++, Python, JavaScript, Git, GitHub
 - 👯 **I’m looking to collaborate on:** Open Source Projects and Student Developer Communities
-- 🤔 **I’m looking for help with:** Cloud Engineering, DevOps, and Career Guidance
+- 🤔 **I’m looking for help with:** DSA, Web Development, Open Source, And Software Development
 - 💬 **Ask me about:**  B.Tech Life, GitHub, Basic Programming, and Technology
 - 📫 **How to reach me:** gopalkumar977156@gmail.com
 - 😄 **Pronouns:** he/him
