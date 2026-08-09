@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Gopal kumar
-**🎓 B.Tech 1st Year cse Student | Aspiring Cloud & DevOps Engineer from India**
+**🎓 B.Tech CSE Student | Aspiring Software Developer | C++ & DSA | Web Development | AI from India**
 
 Email Me 👉 ✉️ ** gopalkumar977156@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
 
