@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ ** gopalkumar977156@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building my programming and development skills
-- 🌱 **I’m currently learning:** Python, Linux, Git & GitHub, Cloud Computing
+- 🌱 **I’m currently learning:** C++, Python, JavaScript, Git, GitHub
 - 👯 **I’m looking to collaborate on:** Open Source Projects and Student Developer Communities
 - 🤔 **I’m looking for help with:** Cloud Engineering, DevOps, and Career Guidance
 - 💬 **Ask me about:**  B.Tech Life, GitHub, Basic Programming, and Technology
@@ -14,7 +14,7 @@ Email Me 👉 ✉️ ** gopalkumar977156@gmail.com ** For Collaboration/Project 
 - ## 🛠️ Skills
 - Python
 - Git & GitHub
-- Linux
+- JavaScript
 - Cloud Computing (Learning)
 - Problem Solving
 ## 🌐 Socials:
