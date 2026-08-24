@@ -23,7 +23,11 @@ Email Me 👉 ✉️ ** gopalkumar977156@gmail.com ** For Collaboration/Project 
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gopalkrdev/gopalkrdev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gopalkrdev/gopalkrdev/output/github-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/gopalkrdev/gopalkrdev/output/github-snake.svg" />
+  </picture>
 </div>
 
 # 💻 Tech Stack:
